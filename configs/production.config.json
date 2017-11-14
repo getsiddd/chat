@@ -1,5 +1,5 @@
 {
   "GITHUB_CLIENT_ID"     : "7bc1a1ed5562c8bc54e9",
   "GITHUB_CLIENT_SECRET" : "78546d66fa134c927488c979db9be6e431ead78a",
-  "GITHUB_CALLBACK_URL"  : "https://aiva-chat.herokuapp.com//auth/callback"
+  "GITHUB_CALLBACK_URL"  : "https://aiva-chat.herokuapp.com/auth/callback"
 }
